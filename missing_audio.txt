@@ -1,0 +1,6 @@
+Total words in kana.ts: 128
+Total keys in AUDIO_MAP: 525
+Missing words (3):
+  おねがいをする
+  なまえのかき
+  るーむ

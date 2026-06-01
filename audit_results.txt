@@ -1,0 +1,9 @@
+Total Unique Example Words: 128
+Missing from AUDIO_MAP: 3
+
+Missing Words:
+  - おねがいをする
+  - なまえのかき
+  - るーむ
+
+[CRITICAL] 'おねがいをする' is MISSING!
