@@ -42,4 +42,14 @@ A self-hosted AI workspace — run powerful models locally without relying on ex
 
 ---
 
+## 👨🏻‍🔬 Science Tutoring 
+
+### [Science-Tutoring](https://github.com/warlockmonti/Science-Tutoring)
+`Business` `Scheduling`
+
+Science tutoring session and educational services offered.
+
+---
+
+
 📫 [linkedin.com/in/nicholas-montimurro](https://linkedin.com/in/nicholas-montimurro)
