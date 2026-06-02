@@ -1,5 +1,5 @@
 # Nick Montimurro
-Full-stack developer building language learning apps and AI-powered tools · Connecticut
+Full-stack developer building language learning apps and AI-powered tools · CT
 
 ---
 
